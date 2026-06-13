@@ -1,3 +1,6 @@
+# CAIXA REGISTRADORA
+# Sistema de vendas com desconto e recibo formatado
+
 #LISTA QUE PERMITE ADICIONAR PREÇO E NOME DO PRODUTO
 lista_prod = []
 
