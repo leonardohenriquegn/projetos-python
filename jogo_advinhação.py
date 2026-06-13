@@ -1,3 +1,6 @@
+# JOGO DE ADIVINHAÇÃO
+# Jogo com número aleatório, dicas e contador de tentativas
+
 import random
 
 numero = random.randint(1,100)
