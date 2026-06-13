@@ -1,4 +1,6 @@
-#LISTA DOS ALUNOS QUE VÃO SER ADICIONADOS
+# SISTEMA DE CADASTRO DE ALUNOS
+
+# Cadastra alunos com notas e calcula média
 lista_alunos = []
 
 #FUNÇÃO QUE PERMITE CADASTRAR ALUNOS E SUAS MÉDIAS
@@ -38,6 +40,7 @@ while menu == True:
     listar_alunos()
   else:
     break
+
 
 
 
